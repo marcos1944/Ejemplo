@@ -2,4 +2,4 @@
 
 Hola, esto es **negrita** :-)
 
-Puedes ir [al REDME principal](Readme.md)
+Puedes ir [al REDME principal](Readme2.md)
